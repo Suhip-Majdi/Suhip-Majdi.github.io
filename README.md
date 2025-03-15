@@ -1,2 +1,1 @@
-# Suhip-Majdi.github.io
-Suhip-Majdi.github.io/portfolio
+Data Science and Artificial Intelligence 
